@@ -1,0 +1,11 @@
+Here is a normal Singleton implementation
+
+https://github.com/NiCHUY/Patterns/blob/master/src/Singleton/Singleton.java
+
+Singleton is a generative pattern that guarantees the existence of only one object of a certain class, and also allows
+you to reach this object from anywhere in the program.
+
+Applicability: Singleton is considered as antipattern by many programmers, so it is becoming less and less common in
+Java code.
+
+Signs of the pattern being used: Singleton can be identified by a static creation method that returns the same object.
